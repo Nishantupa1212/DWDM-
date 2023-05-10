@@ -1,0 +1,10 @@
+a=c(10,20,30,40,50,60)
+n=mean(a)
+n
+m=median(a)
+m
+b=sd(a)
+b
+x=c(10,20,30,40)
+y=c("car","bike","flight","train")
+boxplot(x~y)
